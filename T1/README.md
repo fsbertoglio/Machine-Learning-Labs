@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/einsteindata4u/covid19  ***Dar preferência, tem tasks definidas
